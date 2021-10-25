@@ -1,0 +1,18 @@
+.slidebarOptions {
+  cursor: pointer;
+  height: 40px;
+  transition: all 500ms;
+  display: flex;
+
+  align-items: centere;
+}
+.slidebarOption__icon {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.slidebarOption__icon a {
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 14px;
+}
